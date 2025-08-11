@@ -15,8 +15,8 @@ This project is a **mock admin dashboard** built as part of my CSS Grid practice
 - **HTML5**
 - **CSS3**
 - **CSS Grid Layout**
-- (Optional) Vanilla JavaScript *(if used)*
-- (Optional) Icons via FontAwesome or similar *(if used)*
+- (Optional) Vanilla JavaScript _(if used)_
+- (Optional) Icons via FontAwesome or similar _(if used)_
 
 ---
 
@@ -32,7 +32,7 @@ This project is a **mock admin dashboard** built as part of my CSS Grid practice
 
 ## 📸 Screenshots
 
-*(Add a screenshot here if you'd like)*
+_(Add a screenshot here if you'd like)_
 
 ---
 
@@ -41,3 +41,4 @@ This project is a **mock admin dashboard** built as part of my CSS Grid practice
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/admin-dashboard.git
+   ```
