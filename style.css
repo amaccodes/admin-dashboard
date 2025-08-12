@@ -1,10 +1,9 @@
-/*
+
 
 * {
     outline: solid red;
 }
 
-*/
 
 body,
 html {
@@ -30,6 +29,7 @@ header {
   grid-area: 1 / 2 / 2 / 3;
   background-color: black;
   align-items: center;
+  padding-bottom: 20px;
 }
 
 header > #search-greet > div > img {
@@ -170,6 +170,21 @@ button {
 
 main {
     background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: 2.75fr 1fr;
+}
+
+#project-container {
+    display: grid;
+    grid-template: 1fr 6fr 6fr 6fr / 1fr 1fr;
+    gap: 15px;
+    padding-inline: 12px;
+}
+
+h2 {
+    margin: 0px;
+    padding-top: 12px;
+    grid-area: 1 / 1 / 2 / 3;
 }
 
 
