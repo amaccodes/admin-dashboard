@@ -32,7 +32,7 @@ This project is a **mock admin dashboard** built as part of my CSS Grid practice
 
 ## 📸 Screenshots
 
-_(Add a screenshot here if you'd like)_
+![Library Screenshot](assets/image_preview.png)
 
 ---
 
