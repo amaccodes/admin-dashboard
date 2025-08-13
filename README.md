@@ -4,6 +4,12 @@ This project is a **mock admin dashboard** built as part of my CSS Grid practice
 
 ---
 
+## 📸 Screenshots
+
+![Library Screenshot](assets/image_preview.png)
+
+---
+
 ## 📚 Project Context
 
 > Now that I’ve had plenty of practice using Grid, I’m building a full dashboard design to put those skills to use. For this project, I’m leaning heavily on **CSS Grid** for layout work, while using minimal additional styling or tools.
@@ -29,16 +35,3 @@ This project is a **mock admin dashboard** built as part of my CSS Grid practice
 - Simple, clean design to simulate an admin interface
 
 ---
-
-## 📸 Screenshots
-
-![Library Screenshot](assets/image_preview.png)
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/admin-dashboard.git
-   ```
